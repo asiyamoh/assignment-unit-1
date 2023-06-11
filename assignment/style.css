@@ -2,7 +2,10 @@
 body{background-color:bisque;}
 /* Make the header and footer a different color from the background */
 header{color:olive;}
-footer{color:blue;}
+footer{color:blue;
+        text-align:end;
+        border: 5px solid black;
+}
 /* Align the h1 containing your name in the center of the header*/
 h1{
     text-align: center;
